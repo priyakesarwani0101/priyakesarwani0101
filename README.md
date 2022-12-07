@@ -2,7 +2,11 @@
 <h2> Hello There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, <br/> I'm Priya Kesarwani, Welcome to my Github profile!</h2>
 </div>
 <br/>
-<img align="center" width="500px" margin-bottom="20px" src="https://camo.githubusercontent.com/5d2d6ac2421cea9d2f855c367d78261e6898fbe3c77ee42c6acb4a938e1c1525/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f62656238346636333631363531372e356162386535383036623163322e676966" />
+<!-- <img align="center" width="700px" margin-bottom="20px" src="https://camo.githubusercontent.com/5d2d6ac2421cea9d2f855c367d78261e6898fbe3c77ee42c6acb4a938e1c1525/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f62656238346636333631363531372e356162386535383036623163322e676966" />
+<br/> -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p> -->
 <br/>
 <br/>
 I am a Developer, here are some info about me <br/>
